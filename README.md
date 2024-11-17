@@ -1,0 +1,2 @@
+# Mixly
+Learning MixGo Mini
